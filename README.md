@@ -8,7 +8,7 @@
 
   Evogym is a fully responsive Gym Landing Page ui website, <br />Responsive for all devices, built using Vite, Tailwindcss, and Typescript.
 
-  <a href="https://travel-app-liart-xi.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://evogym-lilac.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
